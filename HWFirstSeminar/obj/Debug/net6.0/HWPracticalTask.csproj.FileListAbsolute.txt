@@ -1,0 +1,45 @@
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\bin\Debug\net6.0\HWPracticalTask.exe
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\bin\Debug\net6.0\HWPracticalTask.deps.json
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\bin\Debug\net6.0\HWPracticalTask.runtimeconfig.json
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\bin\Debug\net6.0\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\bin\Debug\net6.0\HWPracticalTask.pdb
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\HWPracticalTask.csproj.AssemblyReference.cache
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\HWPracticalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\HWPracticalTask.AssemblyInfoInputs.cache
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\HWPracticalTask.AssemblyInfo.cs
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\HWPracticalTask.csproj.CoreCompileInputs.cache
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\refint\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\HWPracticalTask.pdb
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\HWPracticalTask.genruntimeconfig.cache
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HWPracticalTask\obj\Debug\net6.0\ref\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.exe
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.deps.json
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.runtimeconfig.json
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.pdb
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.csproj.AssemblyReference.cache
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.AssemblyInfoInputs.cache
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.AssemblyInfo.cs
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.csproj.CoreCompileInputs.cache
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\refint\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.pdb
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.genruntimeconfig.cache
+C:\Users\Allwazerd\Desktop\GeekBrains\Знакомство с языком программирования С#(Семинар HW)\HW First Seminar\obj\Debug\net6.0\ref\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.exe
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.deps.json
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.runtimeconfig.json
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\bin\Debug\net6.0\HWPracticalTask.pdb
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.csproj.AssemblyReference.cache
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.AssemblyInfoInputs.cache
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.AssemblyInfo.cs
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.csproj.CoreCompileInputs.cache
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\refint\HWPracticalTask.dll
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.pdb
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\HWPracticalTask.genruntimeconfig.cache
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW First Seminar\obj\Debug\net6.0\ref\HWPracticalTask.dll
