@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HW3Seminar/1.0.0": {
+        "runtime": {
+          "HW3Seminar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW3Seminar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
