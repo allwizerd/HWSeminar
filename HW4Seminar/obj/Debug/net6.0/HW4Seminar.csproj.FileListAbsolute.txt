@@ -1,0 +1,15 @@
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\HW4Seminar.csproj.AssemblyReference.cache
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\HW4Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\HW4Seminar.AssemblyInfoInputs.cache
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\HW4Seminar.AssemblyInfo.cs
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\HW4Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\bin\Debug\net6.0\HW4Seminar.exe
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\bin\Debug\net6.0\HW4Seminar.deps.json
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\bin\Debug\net6.0\HW4Seminar.runtimeconfig.json
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\bin\Debug\net6.0\HW4Seminar.dll
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\bin\Debug\net6.0\HW4Seminar.pdb
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\HW4Seminar.dll
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\refint\HW4Seminar.dll
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\HW4Seminar.pdb
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\HW4Seminar.genruntimeconfig.cache
+C:\Users\Allwazerd\Desktop\GeekBrains2\HW4Seminar\obj\Debug\net6.0\ref\HW4Seminar.dll
