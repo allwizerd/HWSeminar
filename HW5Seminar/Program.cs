@@ -99,6 +99,6 @@ if (task == 38)
     int[] array =  CreateRandomArray(size, min, max);
     ShowArray(array);
     Console.WriteLine("↓↓↓↓");
-    Console.Write(DiffMaxMin(array));
+    Console.Write("Разница между максимальным и минимальным элементов массива " + DiffMaxMin(array));
 
 }
