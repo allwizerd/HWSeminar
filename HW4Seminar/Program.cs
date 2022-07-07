@@ -8,19 +8,22 @@
     return enter;
 }
 //int SumChisel(int Chislo)
-void massiv(int m)
+int[] massiv(int m)
 {
     int size = m;
-    int[] array = new int[m];
-    Random myRandom = new Random();
-    for (int i = 0; i < array.Length; i++ )
-    {
-        array[i] = myRandom.Next(0, m);
-        Console.Write("{0} ", array[i]);
-    }
-    
-}
+    int[] newArray = new int[size];
 
+    for(int i = 0; i < size; i++)
+        newArray[i] = new Random().Next(0, 100);
+
+    return newArray;
+}
+void ShowArray(int[] array)
+{
+    for(int i = 0; i < array.Length; i++)
+        Console.Write(array[i] + " ");
+    Console.WriteLine();
+}
 
 
 
@@ -57,7 +60,9 @@ if (task == 29) // а как с интом??
     Console.Clear();
     Console.Write("Введите size masiv: ");
     int m = Convert.ToInt32(Console.ReadLine());
-    massiv(m);
+    int[] array = massiv(m);
+    ShowArray(array);
+
 
     
 
