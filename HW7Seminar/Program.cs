@@ -47,7 +47,7 @@ int[,] CreateRandome2Array(int rows, int colums, int minValue, int maxValue)
 }
 void mean(int[,] array, int m)
 {
-    int avarage = 0;
+    double avarage = 0;
     for (int j = 0; j < array.GetLength(1); j++)
     {
         
